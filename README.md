@@ -1,2 +1,6 @@
 # Car-Sales-Project-Dashboard-Power-BI
-In this Project I am Created a detailed Dashboard. I am Visualize Different KPIs In this Dashboard.
+## 🚗 Car Sales Dashboard (Power BI)
+- Tools: Power BI, Excel
+- KPIs: Total Sales, Average Price, Top 5 Models, Revenue by Region
+- 📊 Download `.pbix` file to explore the dashboard
+- 🔗 [View Online Version](your_powerbi_public_link_here)
